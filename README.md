@@ -18,11 +18,11 @@ bionic-arm-cv-emg/
 
 ## Hardware
 
-- Microcontroller: <!-- e.g. Arduino Uno / Nano -->
-- EMG sensor: <!-- e.g. MyoWare -->
-- Camera: <!-- e.g. USB webcam -->
-- Actuators: <!-- e.g. servo motors -->
-- Power supply: <!-- e.g. 5V / 6V battery -->
+- Microcontroller: Arduino Uno
+- EMG sensor: Myoware
+- Camera: Built-in Laptop camera / USB webcam
+- Actuators: Servo motors
+- Power supply: 7.4V battery
 
 ## How to Run
 
