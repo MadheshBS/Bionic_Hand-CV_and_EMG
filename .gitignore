@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SolidWorks temp/lock files
+~$*
+*.SLDLFP
+
+# Large files (host on HuggingFace instead)
+*.pt
+*.onnx
+*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
